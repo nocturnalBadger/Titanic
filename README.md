@@ -6,4 +6,6 @@ This is my go at the titanic problem. Mostly it's just a mess of linear algebra 
 
 ![Relevant xkcd](https://imgs.xkcd.com/comics/machine_learning.png)
 
-I know that a simpler regression model would probably give better results but I don't care. 
+I know that a simpler regression model would probably give better results but this was more fun.
+
+NN model was inspired by @iamtrask's '[Neural Network in 11 Lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)' 
